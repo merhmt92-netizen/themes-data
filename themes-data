@@ -1,0 +1,97 @@
+[
+  {
+    "id": "dbz",
+    "name": "Dragon Ball Z",
+    "category": "Anime",
+    "locked": false,
+    "image": "https://i.imgur.com/8QZ7ZQp.jpg"
+  },
+  {
+    "id": "naruto",
+    "name": "Naruto",
+    "category": "Anime",
+    "locked": false,
+    "image": "https://i.imgur.com/V9xZx8k.jpg"
+  },
+  {
+    "id": "onepiece",
+    "name": "One Piece",
+    "category": "Anime",
+    "locked": true
+  },
+
+  {
+    "id": "river",
+    "name": "River",
+    "category": "Nature",
+    "locked": false,
+    "icon": "water"
+  },
+  {
+    "id": "forest",
+    "name": "Forest",
+    "category": "Nature",
+    "locked": false,
+    "icon": "leaf"
+  },
+  {
+    "id": "mountain",
+    "name": "Mountain",
+    "category": "Nature",
+    "locked": true
+  },
+
+  {
+    "id": "pastel",
+    "name": "Pastel",
+    "category": "Cute",
+    "locked": false
+  },
+  {
+    "id": "kawaii",
+    "name": "Kawaii",
+    "category": "Cute",
+    "locked": true
+  },
+
+  {
+    "id": "darkvoid",
+    "name": "Dark Void",
+    "category": "Dark",
+    "locked": false
+  },
+  {
+    "id": "neon",
+    "name": "Neon Dark",
+    "category": "Dark",
+    "locked": true
+  },
+
+  {
+    "id": "galaxy",
+    "name": "Galaxy",
+    "category": "Space",
+    "locked": false
+  },
+  {
+    "id": "nebula",
+    "name": "Nebula",
+    "category": "Space",
+    "locked": true
+  },
+
+  {
+    "id": "carbon",
+    "name": "Carbon Black",
+    "category": "Mature",
+    "locked": true,
+    "premium": true
+  },
+  {
+    "id": "obsidian",
+    "name": "Obsidian",
+    "category": "Mature",
+    "locked": true,
+    "premium": true
+  }
+]
